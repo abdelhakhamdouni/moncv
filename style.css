@@ -9,11 +9,6 @@ html, body, ul, div, p, li, section, aside, header, footer, h1, h2, h3{
     box-sizing: border-box;
     font-size: 1em;
 }
-/*:root{
-    --primary : #3b78f1;
-    --secondary : #e1eefa;
-    --black : #1b1b1b;
-}*/
 ul, li{
     list-style: none;
 }
