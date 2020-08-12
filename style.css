@@ -41,19 +41,19 @@ a:hover{
     margin-right: 8px;
 }
 .text-black{
-    color:var(--black) !important;
+    color: #1b1b1b !important;
 }
 .section-hr{
     width: 50%;
     margin: 0 auto;
-    color: var(--primary);
+    color: #3b78f1;;
 }
 button{
-    border: 1px solid var(--primary);
+    border: 1px solid #3b78f1;
     border-radius: 0 8px 0  ;
     padding: 8px;
     margin-top: 8px;
-    background-color: var(--primary);
+    background-color: #3b78f1;
 }
 .download{
     width: 100%;
@@ -84,8 +84,8 @@ button a{
     display: flex;
     justify-content: space-between;
     flex: 1;
-    background-color: var(--primary, #3b78f1);
-    color: var(--black, #201f1f);
+    background-color: #3b78f1;
+    color: #1b1b1b;
     order: 1;
     flex-direction: column;
 }
@@ -118,8 +118,8 @@ button a{
 }
 .aside-title{
     width: 100%;
-    background-color: var(--black, #201f1f);
-    color: var(--primary, #201f1f);
+    background-color: #1b1b1b;
+    color: #3b78f1;
     text-transform: uppercase;
     text-align: center;
     padding: 8px 0;
@@ -155,8 +155,8 @@ button a{
     flex-direction: column;
     flex: 3;
     order: 2;
-    background-color: var(--secondary, #e1eefa);
-    color: var(--black, #201f1f);
+    background-color: #e1eefa;
+    color: #1b1b1b;
     padding: 0 50px;
 }
 .header{
@@ -176,12 +176,12 @@ button a{
     content: '';
     position: absolute;
     width: 8%;
-    border: 2px solid var(--primary);
+    border: 2px solid #3b78f1;
     bottom: 0;
     left: 0;
 }
 .header .prenom{
-    color: var(--primary);
+    color: #3b78f1;
     font-weight: 900;
     font-family: 'Ubuntu', sans-serif;
 }
@@ -198,11 +198,11 @@ button a{
 }
 .formations .formation .periode{
     padding: 30px 0 ;
-    color: VAR(--primary);
+    color: #3b78f1;
 }
 
 .periode p:last-child{
-    color: var(--primary);
+    color: #3b78f1;
 }
 .date{
     width: 20% !important;
@@ -221,10 +221,10 @@ button a{
 }
 .main-title{
     width: 95%;
-    border-bottom: 2px solid var(--primary);
+    border-bottom: 2px solid #3b78f1;
     text-align: left;
     padding: 0 0 10px 20px;
-    color: var(--primary);
+    color: #3b78f1;
     text-transform: uppercase;
     font-weight: 900;
     font-size: 1.2em;
@@ -288,7 +288,7 @@ button a{
     }
     .date p:last-child{
         font-weight: 600;
-        color: var(--primary);
+        color: #3b78f1;
     }
 }
 
