@@ -10,7 +10,7 @@ html, body, ul, div, p, li, section, aside, header, footer, h1, h2, h3{
     font-size: 1em;
 }
 :root{
-    --primary : #3b78f1;/* 1789FC */
+    --bleu : #3b78f1;/* 1789FC */
     --secondary : #e1eefa;
     --black : #1b1b1b;
 }
