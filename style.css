@@ -72,7 +72,6 @@ button a{
     height:100%;
     display:flex;
     display: -webkit-flex;
-    -webkit-align-content: stretch;
     align-content: stretch;
     margin: auto;
     
