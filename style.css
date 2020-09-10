@@ -76,7 +76,7 @@ button{
     display: flex;
     justify-content: space-between;
     flex: 1;
-    background-color: #3b78f1;
+    background-color: #4a9fec;
     color: #1b1b1b;
     order: 1;
     flex-direction: column;
@@ -174,7 +174,7 @@ button{
     left: 0;
 }
 .header .prenom{
-    color: #3b78f1;
+    color: #4a9fec;
     font-weight: 900;
     font-family: 'Ubuntu', sans-serif;
 }
@@ -195,11 +195,11 @@ button{
 }
 .formations .formation .periode{
     padding: 30px 0 ;
-    color: #3b78f1;
+    color: #4a9fec;
 }
 
 .periode p:last-child{
-    color: #3b78f1;
+    color: #4a9fec;
 }
 .date{
     width: 20% !important;
