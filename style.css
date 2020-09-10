@@ -53,6 +53,8 @@ button{
     width: 100%;
     text-align: right;
     padding-right: 15px;
+    background-color: #4a9fec;
+    padding: 5px 15px;
 }
 
 /* ============================================================== */
