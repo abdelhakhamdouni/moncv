@@ -12,6 +12,9 @@ html, body, ul, div, p, li, section, aside, header, footer, h1, h2, h3{
 ul, li{
     list-style: none;
 }
+ul li p a{
+    background-color: none;   
+}
 .hidden{
     display: none;
 }
